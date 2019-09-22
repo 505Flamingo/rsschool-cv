@@ -23,7 +23,7 @@ section {
     display: flex;
 }
 
-.summary, .skills, .code-examples, .experience, .education  {
+.summary, .skills, .code-examples, .experience, .education, .english  {
     flex-direction: column;
 }
 
