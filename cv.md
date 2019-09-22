@@ -14,3 +14,23 @@ I want to develop and learn new things, to increase my skills and feel the resul
 Also I consider myself an extrovert. Writing code restrains my emotions, makes me attentive and I rest from my hyperactivity.
 
 Start programming in 2017. Novice self-educated frontend-developer. Confident knowledge of HTML, CSS/SCSS, JavaScript.
+
+## Technical Skills
+
+* Programming languages and technologies: JavaScript, HTML, CSS
+* Programming practices: Code review
+* Frameworks and Libraries: bootstrap, uikit
+* Tools: GIT, Webpack, VS Code
+* Other skills: photo editing
+
+## Сode examples
+
+1. [Hexal](https://github.com/505Flamingo/hexal/tree/hexal) 
+2. [Brackets](https://github.com/505Flamingo/brackets) 
+3. [Money Exchange](https://github.com/505Flamingo/money-exchange) 
+
+## Experience
+
+All the experience I have, I achieved during studying at courses, self-education and cooperative projects.
+
+[https://github.com/505Flamingo/html-practise](https://github.com/505Flamingo/html-practise)
