@@ -14,7 +14,7 @@ h1 {
     font-size: 4vh;
 }
 
-.contacts-info li a{
+a{
     text-decoration: none;
     color: blue;
 }
@@ -23,11 +23,15 @@ section {
     display: flex;
 }
 
-.summary, .skills, .code-examples  {
+.summary, .skills, .code-examples, .experience, .education  {
     flex-direction: column;
 }
 
 .summary p {
     margin-bottom: 0.5vh;
     text-indent: 3vh;
+}
+
+a:hover {
+    color: orangered;
 }
