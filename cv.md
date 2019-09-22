@@ -1,9 +1,9 @@
 ## Lidiya Gorohova
 
-> Telephone number: +37529 542-36-41  
-> E-mail: helga2011@yandex.ru
-> github - [https://github.com/505flamingo](https://github.com/505flamingo/)
-> English: upper-intermediate (B2).
+> * Telephone number: +37529 542-36-41  
+> * E-mail: helga2011@yandex.ru
+> * github - [https://github.com/505flamingo](https://github.com/505flamingo/)
+> * English: upper-intermediate (B2).
 
 ## Summary
 
