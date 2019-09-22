@@ -34,3 +34,13 @@ Start programming in 2017. Novice self-educated frontend-developer. Confident kn
 All the experience I have, I achieved during studying at courses, self-education and cooperative projects.
 
 [https://github.com/505Flamingo/html-practise](https://github.com/505Flamingo/html-practise)
+
+## Education
+
+- Self-education and practise HTML/CSS from 2015 (htmlacademy, codeacademy, codebra)
+- Graduated [It-city](https://itcity.by/) school on specialization HTML+CSS (Jun, 2018)
+- Graduated [O.R.Media](http://ormedia.by/#/frontEnd) school on specialization Frontend (Oct, 2018)
+
+## English level
+
+According to the Streamline test I have Intermediate level (B1). I studied English from the first form in High School in-depth study of foreign languages . Аs a result, I expand my vocabluary watching american youtubers an chatting in English with foreign people.
