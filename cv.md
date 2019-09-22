@@ -5,7 +5,7 @@
 > github - [https://github.com/505flamingo](https://github.com/505flamingo/)
 > English: upper-intermediate (B2).
 
-## 3. Summary
+## Summary
 
 I have been working as a marketing operations manager for 2 years in state organization. All the time I perform the same tasks, so I realized that this would not lead me to success, and at the same time I know that I can do more.
 
