@@ -1,2 +1,2 @@
 # rsschool-cv
-[Tap here](https://505Flamingo.io/rsschool-cv/cv)
+[Tap here](https://505Flamingo.github.io/rsschool-cv/cv)
